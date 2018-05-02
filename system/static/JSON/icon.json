@@ -1,0 +1,25 @@
+{
+  "alignCenter": "../../../assets/svg/alignCenter.svg",
+  "alignLeft": "../../../assets/svg/alignLeft.svg",
+  "alignRight": "../../../assets/svg/alignRight.svg",
+  "bold": "../../../assets/svg/bold.svg",
+  "color": "../../../assets/svg/color.svg",
+  "indent": "../../../assets/svg/indent.svg",
+  "insertBlock": "../../../assets/svg/insertBlock.svg",
+  "insertImage": "../../../assets/svg/insertImage.svg",
+  "insertLine": "../../../assets/svg/insertLine.svg",
+  "insertLink": "../../../assets/svg/insertLink.svg",
+  "insertQuote": "../../../assets/svg/insertQuote.svg",
+  "insertVideo": "../../../assets/svg/insertVideo.svg",
+  "italic": "../../../assets/svg/italic.svg",
+  "listCheck": "../../../assets/svg/listCheck.svg",
+  "listOrdered": "../../../assets/svg/listOrdered.svg",
+  "listUnordered": "../../../assets/svg/listUnordered.svg",
+  "outdent": "../../../assets/svg/outdent.svg",
+  "redo": "../../../assets/svg/redo.svg",
+  "removeFormat": "../../../assets/svg/removeFormat.svg",
+  "strikethrough": "../../../assets/svg/strikethrough.svg",
+  "underline": "../../../assets/svg/underline.svg",
+  "undo": "../../../assets/svg/undo.svg"
+
+}

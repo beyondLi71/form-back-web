@@ -1,0 +1,138 @@
+{
+	"powerNavList": [{
+			"name": "第一项",
+			"contentName": "碧桂园开发11111",
+			"describe": "迈动互联11111",
+			"ID": "1"
+		},
+		{
+			"name": "第二项",
+			"contentName": "碧桂园开发2222",
+			"describe": "迈动互联2222",
+			"ID": "2"
+		},
+		{
+			"name": "第三项",
+			"contentName": "碧桂园开发3333",
+			"describe": "迈动互联3333",
+			"ID": "3"
+		},
+		{
+			"name": "第四项",
+			"contentName": "碧桂园开发444",
+			"describe": "迈动互联4444",
+			"ID": "4"
+		},
+		{
+			"name": "第五项",
+			"contentName": "碧桂园开发5555",
+			"describe": "迈动互联5555",
+			"ID": "5"
+		}
+	],
+	"powerBtnList": [
+		[{
+				"name": "销售订单系统",
+				"checked": false,
+				"disabled": false
+			},
+			{
+				"name": "未完成订单",
+				"checked": true,
+				"disabled": false
+			},
+			{
+				"name": "未开单菜单",
+				"checked": true,
+				"disabled": false
+			},
+			{
+				"name": "已开单菜单",
+				"checked": false,
+				"disabled": false
+			}
+		],
+		[{
+				"name": "销售订单系统",
+				"checked": false,
+				"disabled": true
+			},
+			{
+				"name": "未完成订单",
+				"checked": true,
+				"disabled": false
+			},
+			{
+				"name": "未开单菜单",
+				"checked": true,
+				"disabled": false
+			},
+			{
+				"name": "已开单菜单",
+				"checked": false,
+				"disabled": false
+			}
+		]
+	],
+	"navData": [{
+			"id": "aa",
+			"name": "myName",
+			"parent_id": [{
+					"id": "aa",
+					"name": "myName",
+					"parent_id": [],
+					"url": "aaaa",
+					"serial_num": "1",
+					"accordion": "aaaa",
+					"create_tiem": "2018-04-24",
+					"create_by": "byName",
+					"update_time": "2018-04-24",
+					"update_by": "str"
+				},
+				{
+					"id": "aa",
+					"name": "myName",
+					"parent_id": [],
+					"url": "aaaa",
+					"serial_num": "1",
+					"accordion": "aaaa",
+					"create_tiem": "2018-04-24",
+					"create_by": "byName",
+					"update_time": "2018-04-24",
+					"update_by": "str"
+				},
+				{
+					"id": "aa",
+					"name": "myName",
+					"parent_id": [],
+					"url": "aaaa",
+					"serial_num": "1",
+					"accordion": "aaaa",
+					"create_tiem": "2018-04-24",
+					"create_by": "byName",
+					"update_time": "2018-04-24",
+					"update_by": "str"
+				}
+			],
+			"url": "aaaa",
+			"serial_num": "1",
+			"accordion": "aaaa",
+			"create_tiem": "2018-04-24",
+			"create_by": "byName",
+			"update_time": "2018-04-24",
+			"update_by": "str"
+		},
+		{
+			"id": "aa",
+			"name": "myName",
+			"parent_id": [],
+			"url": "aaaa",
+			"serial_num": "1",
+			"accordion": "aaaa",
+			"create_tiem": "2018-04-24",
+			"create_by": "byName",
+			"update_time": "2018-04-24",
+			"update_by": "str"
+		}
+	]
+}

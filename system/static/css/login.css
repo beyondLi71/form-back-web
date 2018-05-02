@@ -1,0 +1,41 @@
+.loginBox {
+  position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -171px;
+	margin-top: -128px;
+	width: 350px;
+	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0px 5px 40px 0px rgba(112, 117, 120, 0.35);
+}
+.loginTitle {
+	color: #3e94e1;
+	font-size: 16px;
+	font-weight: bold;
+	height: 46px;
+	line-height: 46px;
+	text-align: center;
+	border-bottom: 1px solid #d5d5d5;
+}
+.loginInfo {
+	padding: 20px;
+}
+.loginBtn {
+	text-align: center;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+    color: #333;
+}
+
+.el-form-item{
+	display: flex;
+	margin-bottom: 40px;
+}
+
+.el-form-item__content{
+	flex-grow: 1;
+	width: 1;
+}
